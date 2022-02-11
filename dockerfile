@@ -1,0 +1,4 @@
+FROM rust
+
+WORKDIR /mnt
+
